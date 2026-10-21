@@ -20,3 +20,5 @@
 1. Clone this repository:
    ```bash
    git clone [https://github.com/你的GitHub用户名/data-science-project.git](https://github.com/你的GitHub用户名/data-science-project.git)
+pip install -r requirements.txt
+jupyter notebook analysis.ipynb
